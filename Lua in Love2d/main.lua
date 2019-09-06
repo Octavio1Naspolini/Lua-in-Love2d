@@ -3,16 +3,16 @@ function love.load()
 	Image1 = love.graphics.newImage("luafilesystem.png")
 	Image2 = love.graphics.newImage("seta.jpg")
 	Image3 = love.graphics.newImage("instrucao.png")
-    love.graphics.setBackgroundColor(0.17, 0.10, 1.92, 1.15)
+    	love.graphics.setBackgroundColor(0.17, 0.10, 1.92, 1.15)
 	informacao1 = {"Abre na janela do terminal para executar o arquivo em Lua."}
 	informacao2 = {"Basta abrir no LOVE Console no lado esquerdo da tela."}
 
 	print(informacao1)
 	print(informacao2)
 
-	texto = "Ola Mundo!"
+	--texto = "Ola Mundo!"
 
-	print("Voce digitou: " .. tostring(texto))
+	--print("Voce digitou: " .. tostring(texto))
 
 end
 
