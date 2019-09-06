@@ -10,7 +10,7 @@ function love.load()
 	print(informacao1)
 	print(informacao2)
 
-	--ptexto = "Ola Mundo!"
+	--texto = "Ola Mundo!"
 
 	--print("Voce digitou: " .. tostring(texto))
 
